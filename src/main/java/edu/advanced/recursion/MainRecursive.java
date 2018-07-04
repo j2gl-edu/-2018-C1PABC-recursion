@@ -1,4 +1,4 @@
-package edu.advanced.recursive;
+package edu.advanced.recursion;
 
 public class MainRecursive {
 
